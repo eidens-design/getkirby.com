@@ -1,4 +1,4 @@
-Title: Running Kirby on a Caddy v2 web server
+Title: Kirby meets Caddy
 
 ----
 

@@ -1,4 +1,4 @@
-Title: Running Kirby on a Nginx web server
+Title: Kirby meets Nginx
 
 ----
 
